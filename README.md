@@ -5,6 +5,8 @@ project gets its own tab, the agent's replies and diffs are easy to read, and ev
 reviewed before it lands. Learn more on the product page:
 [zaseeta.com/aibex](https://zaseeta.com/aibex/) (English:
 [zaseeta.com/aibex/index-en.html](https://zaseeta.com/aibex/index-en.html)).
+How to use it, from opening a folder to troubleshooting, is in the
+[User Guide](https://zaseeta.com/aibex/user-manual-en.html).
 
 日本語は[下](#aibex-日本語)にあります。
 
@@ -47,6 +49,7 @@ It exists for two things only:
 **Aibex** は、複数のプロジェクトで AI のコーディングエージェントを同時に使うための macOS アプリです。
 プロジェクトごとにタブを持ち、エージェントの返答と差分を読みやすく出し、変更は取り込む前に必ず確かめます。
 くわしくは製品ページ [zaseeta.com/aibex](https://zaseeta.com/aibex/) をご覧ください。
+フォルダを開くところから困ったときまでの使い方は、[Aibex の使い方](https://zaseeta.com/aibex/user-manual.html)にまとめています。
 
 ## このリポジトリについて
 
